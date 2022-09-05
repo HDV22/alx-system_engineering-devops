@@ -1,5 +1,5 @@
-Prints "Hello, World " , followed by a new line to the standard output
- 
+Prints "Hello, World", followed by a new line to the standard output
+
 Displays confused smiley
 
 Display content of /etc/passwd file
@@ -26,7 +26,7 @@ Display 10 newest files
 
 Print words that appear exactly once
 
-Display lines containing pattern root
+Display lines containg patter root
 
 Display number of lines with pattern bin
 
